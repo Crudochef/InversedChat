@@ -1,4 +1,4 @@
-# 🎮 FinalChat
+# 🎮 InversedChat
 
 **The ultimate Minecraft chat plugin** with AI moderation, custom commands, friend system, interactive chat games, and advanced features!
 
